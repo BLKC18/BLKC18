@@ -1,8 +1,11 @@
--👋 Amirhossein Abbasi | 10th grade student from Arak  
--💻 Proficient in Python (with professional certification), C#, HTML, and CSS  
--📚 Familiar with algorithms, flowcharts, Django, and ASP.NET  
--🏆 Achieved 3rd place in one of the challenges of the 4th AIO Cup competition  
--🎯 Goal: Advancing in AI, participating in national and international competitions, working on commercial projects, and obtaining scholarships at reputable universities and companies abroad  
+-🧠 Aspiring AI Engineer | Self-taught with relentless passion  
+-🎯 Building strong foundations through structured learning and real-world projects  
+-🏆 3rd place in one of the AIO Cup 4 challenges  
+-📜 Certified in Python by Technical and Vocational Training Org  
+-💡 Exploring ML, Data Science & Real-world AI applications  
+-🌍 Goal: Full scholarship in AI & contribute to global innovation  
+-📚 Currently revisiting AI courses on AiLearn | GitHub is my growth journal
+
 
 -📫 amirhoseinabbasi.1314@gmail.com
 
